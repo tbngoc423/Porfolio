@@ -1,17 +1,9 @@
 # 📊 Business Requirement Document (BRD)  
-## 🏢 Dự án: Phân tích dữ liệu thương mại điện tử TheLook
 
 ---
 
 ## **1. Overview**
-TheLook Company specializes in fashion and beauty retail, combining modern trends with high-quality products. It enhances the shopping experience through personalized styling services and strong customer engagement.
-
-Core Services:
-Retail & Order Fulfillment – Selling fashion products, managing inventory, and ensuring smooth distribution.
-Customer Engagement – Providing styling consultations, loyalty programs, and after-sales support.
-Business Areas:
-Retail Stores – Creating appealing shopping spaces for an enhanced customer experience.
-Omnichannel Services – Integrating online and offline shopping with seamless order processing.
+TheLook Company is a fashion and beauty retailer offering modern and high-quality products. It provides a smooth shopping experience with styling services, customer support, and fast order fulfillment. The company manages inventory, handles product distribution, and offers after-sales services. It operates retail stores and an online platform, making shopping easy and convenient for customers.
 ### 📌 **Business Canvas Model**
 *Business Canvas Model thể hiện chiến lược kinh doanh, khách hàng mục tiêu và dòng doanh thu của TheLook.*
 
