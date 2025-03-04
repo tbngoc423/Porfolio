@@ -4,8 +4,14 @@
 ---
 
 ## **1. Overview**
-TheLook là một nền tảng thương mại điện tử bán lẻ, tạo ra lượng lớn dữ liệu từ giao dịch hàng ngày, bao gồm khách hàng, sản phẩm, đơn hàng, sự kiện website và các chiến dịch tiếp thị số.
+TheLook Company specializes in fashion and beauty retail, combining modern trends with high-quality products. It enhances the shopping experience through personalized styling services and strong customer engagement.
 
+Core Services:
+Retail & Order Fulfillment – Selling fashion products, managing inventory, and ensuring smooth distribution.
+Customer Engagement – Providing styling consultations, loyalty programs, and after-sales support.
+Business Areas:
+Retail Stores – Creating appealing shopping spaces for an enhanced customer experience.
+Omnichannel Services – Integrating online and offline shopping with seamless order processing.
 ### 📌 **Business Canvas Model**
 *Business Canvas Model thể hiện chiến lược kinh doanh, khách hàng mục tiêu và dòng doanh thu của TheLook.*
 
